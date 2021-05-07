@@ -1,0 +1,36 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    
+}
+
+.menu{
+
+    height: 100px;
+    width: 100%;
+    background-color: coral;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+}
+
+a{
+    color: rgb(12, 8, 8);
+    margin: auto;
+    text-decoration:rgb(3, 0, 0) ;
+}
+
+.indicados{
+    height: 80vh;
+    width: 80vw;
+    color:tomato(49, 13, 114);
+    border-bottom:5px wheat;dotted
+    
+
+}
+.Indicados1{color:black ; 
+    height :  60vh
+    width: 60vw
+} 
