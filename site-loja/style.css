@@ -1,36 +1,72 @@
 body{
-
+ 
     margin: 0;
     padding: 0;
-    
 }
-
+ 
 .menu{
-
+ 
     height: 100px;
     width: 100%;
-    background-color: coral;
-    font-size: 20px;
+    background-color: burlywood;
+    font-size: 30px;
     display: flex;
     justify-content: space-between;
     position: fixed;
+ 
 }
-
+ 
 a{
-    color: rgb(12, 8, 8);
+    color: white;
     margin: auto;
-    text-decoration:rgb(3, 0, 0) ;
+    text-decoration: none;
 }
-
-.indicados{
+ 
+.produtos{
     height: 80vh;
-    width: 80vw;
-    color:tomato(49, 13, 114);
-    border-bottom:5px wheat;dotted
+    width: 100vw;
+    background-color: bisque;
+    border-bottom: 5px white dotted;
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
     
-
 }
-.Indicados1{color:black ; 
-    height :  60vh
-    width: 60vw
-} 
+ 
+.produto1{
+    background-color: white; 
+    height: 60vh;
+    width: 20vw;
+    margin: auto;
+    text-align: center;
+    
+}
+ 
+.produto2{
+    background-color: white;
+    height: 60vh;
+    width: 20vw;
+    margin: auto;
+    text-align: center;
+    
+}
+ 
+.produto3{
+    background-color: white;
+    height: 60vh;
+    width: 20vw;
+    margin: auto;
+    text-align: center;
+    
+    
+}
+ 
+.produto4{
+    background-color: white;
+    height: 60vh;
+    width: 20vw;
+    margin: auto;
+    text-align: center;
+    
+}
